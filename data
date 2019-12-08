@@ -1,0 +1,19 @@
+Information 
+
+To help Jeronimo in his hunt we should get to following information: 
+
+- The Localities of Bogotá, Colombia from Wikipedia: https://es.wikipedia.org/wiki/Anexo:Localidades_de_Bogot%C3%A1 
+
+- The directions (scope, longitude) ot these Localities of Bogotá from Open Street Map APIs 
+
+- From Foursquare we will require following scenes information: 
+
+- the burger joint settings of the Localities 
+
+- the workplaces settings of the Localities 
+
+- the secondary schools settings of the Localities 
+
+- the colleges settings of the Localities 
+
+We will at that point influence the information so as to figure out which area is the most proper so as to find the burger joint.
